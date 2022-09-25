@@ -29,6 +29,7 @@ body * {
 
 .left-login > h1 {
     font-size: 3vw;
+    margin: 20px;
     color: #77ffc0;
 }
 
@@ -46,6 +47,7 @@ body * {
 
 .card-login {
     width: 60%;
+    margin: 0px 20px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -96,7 +98,7 @@ body * {
 .btn-login {
     width: 100%;
     padding: 16px 0px;
-    margin: 25px;
+    margin: 20px 0px;
     border: none;
     border-radius: 8px;
     outline: none;
