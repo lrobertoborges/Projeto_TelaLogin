@@ -98,7 +98,7 @@ body * {
 .btn-login {
     width: 100%;
     padding: 16px 0px;
-    margin: 20px 0px;
+    margin: 25px;
     border: none;
     border-radius: 8px;
     outline: none;
@@ -113,7 +113,7 @@ body * {
 
 @media only screen and (max-width: 950px) {
     .card-login {
-        width: 85%;
+        width: 85%
     }
 }
 
